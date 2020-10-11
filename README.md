@@ -30,14 +30,14 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 
-<br/>
+<!-- <br/>
 
-<!-- <a href="https://github.com/alexeylesin">
+<a href="https://github.com/alexeylesin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexeylesin&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexeylesin&theme=buefy&layout=compact" />
-</a> -->
+</a>
 
-<br/>
+<br/> -->
 
 <h3> 🤝🏻 &nbsp;Связаться со мной </h3>
 
