@@ -43,7 +43,7 @@
 
 <p align="center">
 <a href="https://alexeylesin.ru/"><img alt="Website" src="https://img.shields.io/badge/Вебсайт-www.alexeylesin.ru-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://vk.com/l3s1n/"><img alt="LinkedIn" src="https://img.shields.io/badge/ВКонтакте-l3s1n-blue?style=flat-square&logo=vk"></a>
-<a href="https://youtube.com/c/АлексейЛесин/"><img alt="LinkedIn" src="https://img.shields.io/badge/YouTube-alexeylesin-blue?style=flat-square&logo=youtube"></a>
+<a href="https://vk.com/securityerror/"><img alt="VKontakte" src="https://img.shields.io/badge/ВКонтакте-securityerror-blue?style=flat-square&logo=vk"></a>
+<a href="https://youtube.com/c/АлексейЛесин/"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-alexeylesin-blue?style=flat-square&logo=youtube"></a>
 <a href="mailto:me@alexeylesin.ru"><img alt="Email" src="https://img.shields.io/badge/Email-me@alexeylesin.ru-blue?style=flat-square&logo=gmail"></a>
 </p>
